@@ -1,0 +1,12 @@
+NODEJS
+entorno de ejecucion 
+app de servidor
+ayuda al sistema operativo a entender js
+comando nuevo de consola
+
+desde mi modulo math utiliza su funcion add
+console.log(math.add(1,0));
+
+MODULOS DE NODEJS
+DOCS 
+API  //
